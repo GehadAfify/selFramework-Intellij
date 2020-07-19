@@ -7,4 +7,7 @@ Design Patterns
 POM 
 BDD  
 DDT 
-
+Cucumber
+Gherkins
+phantomjs driver
+#browsers : chrome , firefox , internet explorer

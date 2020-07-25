@@ -18,6 +18,8 @@ public class LoginPage extends PageBase {
 	
 	@FindBy (css = "input.button-1.login-button")
 	WebElement loginBTN;
+	@FindBy(css = "a.ico-logout")
+	public WebElement logoutlink;
 	
 	public void userLogin (String email , String password) 
 	{
